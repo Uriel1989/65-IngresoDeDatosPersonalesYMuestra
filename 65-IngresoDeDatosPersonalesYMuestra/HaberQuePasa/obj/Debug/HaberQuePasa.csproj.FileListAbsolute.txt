@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\HaberQuePasa\HaberQuePasa\bin\Debug\HaberQuePasa.exe
+C:\Users\tauro\Desktop\HaberQuePasa\HaberQuePasa\bin\Debug\HaberQuePasa.pdb
+C:\Users\tauro\Desktop\HaberQuePasa\HaberQuePasa\obj\Debug\HaberQuePasa.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\HaberQuePasa\HaberQuePasa\obj\Debug\HaberQuePasa.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\HaberQuePasa\HaberQuePasa\obj\Debug\HaberQuePasa.exe
+C:\Users\tauro\Desktop\HaberQuePasa\HaberQuePasa\obj\Debug\HaberQuePasa.pdb
